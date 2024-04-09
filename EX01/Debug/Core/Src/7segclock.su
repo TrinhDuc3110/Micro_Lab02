@@ -1,0 +1,2 @@
+7segclock.c:11:6:Buffer_Update_7seg	16	static
+7segclock.c:17:6:Driver_7seg	24	static
